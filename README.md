@@ -26,7 +26,7 @@ LOADING...
   <img alt="powershell" src="https://img.shields.io/badge/-powershell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-2496ED?style=flat-square&logo=Linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
 </p>
 
