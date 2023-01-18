@@ -5,6 +5,9 @@ LOADING...
 ██████████████]99% 
 
 ## ABOUT ME
+- I am working in my profession👨‍🎓♥
+- I love everything about the computer world.🌍♥
+
 <p>
   <img alt="Lover IT" src="https://img.shields.io/static/v1?label=IM&message=IT%20LOVER&color=critical" />
 </p>
@@ -21,7 +24,7 @@ LOADING...
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </p>
 
-- I am working in my profession👨‍🎓♥
+
 
 ## Studies
 
