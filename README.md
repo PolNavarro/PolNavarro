@@ -24,7 +24,7 @@ LOADING...
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="powershell" src="https://img.shields.io/badge/-powershell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
-  <img alt="bash" src="https://img.shields.io/badge/-powershell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
+  <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
 </p>
 
 
