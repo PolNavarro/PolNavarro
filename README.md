@@ -21,7 +21,7 @@ LOADING...
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </p>
 
-I am working in my profession
+- I am working in my profession👨‍🎓♥
 
 ## Studies
 
