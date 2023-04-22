@@ -33,8 +33,6 @@ LOADING...
 
 
 ## Studies
-
-**ESO:** Finish in 2017
 <br>
 **SMX:** Finish in 2020
 <br>
