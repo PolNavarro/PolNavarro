@@ -33,7 +33,7 @@ LOADING...
 
 
 ## Studies
-<br>
+
 **SMX:** Finish in 2020
 <br>
 **ASIX:** Finish in 2022
