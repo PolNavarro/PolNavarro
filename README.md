@@ -39,10 +39,12 @@ Junior DevOps
 
 
 ## Studies
-
-**SMX:** Finish in 2020
-<br>
+**UOC:** NOW
+<br><br>
+**Cybersecurity:** Finish in 2023 
+<br><br>
 **ASIX:** Finish in 2022
 <br></br>
-**Cybersecurity:** NOW 
+**SMX:** Finish in 2020
+
 
