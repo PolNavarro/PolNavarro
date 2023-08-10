@@ -32,6 +32,8 @@ Junior DevOps
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EBECEC?style=flat-square&logo=Ansible&logoColor=black"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana&logoColor=orange"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus&logoColor=red"/>
 
 
 </p>
