@@ -12,19 +12,19 @@ Junior DevOps
 - I love everything about the computer world.🌍♥
 
 ### Scripting:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=bash;powershell;python)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=bash;powershell;python)
 
 ### Monitoring:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=Prometheus;Grafana;AlertManager)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=Prometheus;Grafana;AlertManager)
 
 ### OS:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=ubuntu;Fedora;Windows;ParrotOS)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=ubuntu;Fedora;Windows;ParrotOS)
 
 ### Programming languages:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=python)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=python)
 
 ### OTHERS:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=docker;Jenkins;Discordpy;FastAPI;Flask)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=docker;Jenkins;Discordpy;FastAPI;Flask)
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
