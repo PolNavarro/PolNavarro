@@ -2,7 +2,7 @@
 
 LOADING...
 
-██████████████]99% 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C38&random=false&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D99%25)](https://git.io/typing-svg)
 
 ## ABOUT ME
 
@@ -11,13 +11,20 @@ Junior DevOps
 - I am working in my profession👨‍🎓♥
 - I love everything about the computer world.🌍♥
 
-<p>
-  <img alt="Lover IT" src="https://img.shields.io/static/v1?label=IM&message=IT%20LOVER&color=critical" />
-</p>
-<p>
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-</p>
+### Scripting:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=bash;powershell;python)]
 
+### Monitoring:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=Prometheus;Grafana;AlertManager)]
+
+### OS:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=ubuntu;Fedora;Windows;ParrotOS)]
+
+### Programming languages:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=python)]
+
+### OTHERS:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C38&random=false&width=435&lines=docker;Jenkins;Discordpy;FastAPI;Flask)]
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
