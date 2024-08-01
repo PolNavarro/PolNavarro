@@ -42,7 +42,6 @@ Junior DevOps
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana&logoColor=orange"/>
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus&logoColor=red"/>
   <img alt="k3s" src="https://img.shields.io/badge/-k3s-black?style=flat-square&logo=k3s&logoColor=yellow"/>
-  <img alt="k3s" src="https://img.shields.io/badge/-k3s-black?style=flat-square&logo=k3s&logoColor=yellow"/>
 
 </p>
 
