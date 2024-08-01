@@ -40,8 +40,9 @@ Junior DevOps
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EBECEC?style=flat-square&logo=Ansible&logoColor=black"/>
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana&logoColor=orange"/>
-  <img alt="Grafana" src="https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus&logoColor=red"/>
-
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus&logoColor=red"/>
+  <img alt="k3s" src="https://img.shields.io/badge/-k3s-black?style=flat-square&logo=k3s&logoColor=yellow"/>
+  <img alt="k3s" src="https://img.shields.io/badge/-k3s-black?style=flat-square&logo=k3s&logoColor=yellow"/>
 
 </p>
 
