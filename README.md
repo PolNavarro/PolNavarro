@@ -6,7 +6,7 @@ LOADING...
 
 ## ABOUT ME
 
-Junior DevOps
+DevOps
 
 - I am working in my profession👨‍🎓♥
 - I love everything about the computer world.🌍♥
@@ -48,8 +48,6 @@ Junior DevOps
 
 
 ## Studies
-**UOC:** NOW
-<br><br>
 **Cybersecurity:** Finish in 2023 
 <br><br>
 **ASIX:** Finish in 2022
